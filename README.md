@@ -40,5 +40,5 @@ pip install -r requirements.txt
 
 - To get specific date run
 ```shell
-  python create_report.py -f path/to/report.xls -d iso-date
+  python create_report.py -f path/to/report.xls -d YYYY-MM-DD
 ```
