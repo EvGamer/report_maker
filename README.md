@@ -3,8 +3,8 @@
 Reads excel with time table and exports entries for a given day forming a report for telegram bot
 
 ## Requirements
-Python 3.12.6
-pip 24.2
+- Python 3.12.6
+- pip 24.2
 
 ## Installation
 - Clone repository
