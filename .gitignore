@@ -1,0 +1,8 @@
+venv/
+input
+output/
+
+.vscode
+.idea
+__pycache__
+.pyc
